@@ -1,0 +1,16 @@
+C Program Boilerplate
+#include <stdio.h>
+
+int main() {
+    
+    return 0;
+}
+
+Isay C program ka basic structure/boilerplate kaha ja sakta hai.
+
+#include -> kisi header file ko program mein include karne ke liye use hota hai, taa-ke us header mein declared functions aur definitions ko use kiya ja sake.
+<stdio.h> -> ye C ki standard input/output header file hai. Is mein printf(), scanf() jese input/output functions ki declarations hoti hain. Technically ise sirf "library" kehne ke bajaye header file kehna zyada accurate hai.
+int -> main() function ka return type hai. Iska matlab hai ke main() ek integer value return karta hai.
+main() -> ye program ka main function/entry point hai. Program ki execution normally main() se start hoti hai.
+{ } -> in curly braces ke darmiyan main() function ka body/code block hota hai. Yahan hum apna program ka code likhte hain.
+return 0; -> main() function integer value 0 return karta hai. 0 conventionally indicate karta hai ke program successfully terminate hua.
