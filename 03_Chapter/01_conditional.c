@@ -21,11 +21,14 @@ int main(){
 
 
     relational opreater:
-    > < == !=
+    > >= =< < == !=
     >: greaterthen
     <: lessthen
     ==: equal to
     !=: not equal to
+    >= greater then or equal to 
+    <= less then or equal to
+
 
     C lang main single = tu assign karny k liye hota hai jab k == Compare karny k liye
 

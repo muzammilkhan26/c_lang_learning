@@ -12,7 +12,8 @@ int main(){
         statment 2;
     }
 
-    agar condition true ho gai tu statment 1 run ho jae gi or statment 2 skip ho jae gi or agar condition false ho gai tu statment 1 skip ho jae gi or statment 2 run ho jae gi
+    agar condition true ho gai tu statment 1 run ho jae gi or statment 2 skip ho jae gi 
+    or agar condition false ho gai tu statment 1 skip ho jae gi or statment 2 run ho jae gi
     */
     int a = 5;
 
